@@ -29,3 +29,7 @@ The project followed a systematic step-by-step data cleaning process using Micro
 
 # Use of Advanced Formulas - ![USING ADV FORMULAS](https://github.com/user-attachments/assets/52242221-b9dc-48df-91bb-bb574b9f959c)
 
+## Final Conclusion
+- This project successfully demonstrates the application of advanced Excel functions for cleaning and preparing raw datasets. Through systematic steps—ranging from data validation to text formatting and error correction—the raw data was transformed into a clean, consistent, and analysis-ready format. The project highlights how Excel can be a powerful tool for data cleaning when used effectively, and showcases essential skills required in data-driven roles such as Data Analyst, MIS Executive, and Business Analyst. By completing this project, a strong foundation has been built in handling real-world data issues, ensuring improved data quality and reliability for reporting and decision-making.
+Final Data - ![FINAL DATA](https://github.com/user-attachments/assets/ac147b07-a65f-41ad-99e7-d308bdd5d149)
+
